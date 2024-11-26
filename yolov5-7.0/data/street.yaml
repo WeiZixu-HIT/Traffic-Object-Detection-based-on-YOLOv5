@@ -1,4 +1,0 @@
-train: data/street/train/images
-val: data/street/val/images
-nc: 2
-names: ['car', 'person']
