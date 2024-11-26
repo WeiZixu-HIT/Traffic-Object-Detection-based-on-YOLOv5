@@ -1,0 +1,5 @@
+model_path: weights\yolov5s.pt
+iou_thres: 0.45
+conf_thres: 0.25
+device: 0 # (0 for cuda:0) or (-1 for cpu)
+names: ['person', 'car']
