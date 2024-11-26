@@ -1,1 +1,0 @@
---weights C:/PythonProject/PycharmProject/YOLOP-main/weights/End-to-end.pth --source 0 --device 0 --save-dir C:/PythonProject/PycharmProject/YOLOP-main/output/videos_output
